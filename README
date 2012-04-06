@@ -1,0 +1,7 @@
+Maarten Versteegh
+http://lands.let.ru.nl/~versteegh/
+maartenversteegh AT gmail DOT com
+Centre for Language Studies
+Radboud University Nijmegen
+
+This is the beginning of an implementation in Prolog of Constructive Optimality Theoretic Syntax. The idea is to implement OT syntax without GEN or economy constraints. Every constraint is interpreted as a _procedure_ that provides a monotone increase of information to an initially underspecified attribute value tree. For more information see Henk Zeevat's paper of which this code attempt to be a direct implementation: http://home.medewerker.uva.nl/h.w.zeevat/bestanden/Zeevat.pdf.
